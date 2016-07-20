@@ -1,2 +1,2 @@
 # Pyscript
-python 实用脚本
+- Sdc.py    System Disk Check  磁盘检测工具
