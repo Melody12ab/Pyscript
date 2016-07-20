@@ -2,7 +2,7 @@
 
 """
 sdc - System Disk Check
-@author  melody(lijl15@lenovo.com)
+@author  melody12ab@gmail.com
 @Version 0.1
 """
 
